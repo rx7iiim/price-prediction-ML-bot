@@ -1,0 +1,1 @@
+i preprocessed the dataset a bit ( removing NaN values, adding features and splitting the catogerical value column to binary columns ) and then scaled,splitted and trained & tested on linear , random forest ..finding best estimator at last
